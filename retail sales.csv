@@ -1,0 +1,937 @@
+Province,City,Year,Month,Category,Sales,Quantity
+DKI Jakarta,Jakarta Pusat,2023,Jan,Makanan,3219110,485
+DKI Jakarta,Jakarta Pusat,2023,Jan,Minuman,3229084,320
+DKI Jakarta,Jakarta Pusat,2023,Jan,Rumah Tangga,3356330,121
+DKI Jakarta,Jakarta Pusat,2023,Feb,Makanan,1110268,70
+DKI Jakarta,Jakarta Pusat,2023,Feb,Minuman,4200614,171
+DKI Jakarta,Jakarta Pusat,2023,Feb,Rumah Tangga,4097042,264
+DKI Jakarta,Jakarta Pusat,2023,Mar,Makanan,3003274,137
+DKI Jakarta,Jakarta Pusat,2023,Mar,Minuman,4009908,149
+DKI Jakarta,Jakarta Pusat,2023,Mar,Rumah Tangga,2239911,201
+DKI Jakarta,Jakarta Pusat,2023,Apr,Makanan,3138242,199
+DKI Jakarta,Jakarta Pusat,2023,Apr,Minuman,4210548,307
+DKI Jakarta,Jakarta Pusat,2023,Apr,Rumah Tangga,2370455,463
+DKI Jakarta,Jakarta Pusat,2023,Mei,Makanan,2825573,435
+DKI Jakarta,Jakarta Pusat,2023,Mei,Minuman,1791743,493
+DKI Jakarta,Jakarta Pusat,2023,Mei,Rumah Tangga,4381524,210
+DKI Jakarta,Jakarta Pusat,2023,Jun,Makanan,3281931,363
+DKI Jakarta,Jakarta Pusat,2023,Jun,Minuman,2470485,302
+DKI Jakarta,Jakarta Pusat,2023,Jun,Rumah Tangga,2307371,394
+DKI Jakarta,Jakarta Pusat,2023,Jul,Makanan,1917040,108
+DKI Jakarta,Jakarta Pusat,2023,Jul,Minuman,2919486,219
+DKI Jakarta,Jakarta Pusat,2023,Jul,Rumah Tangga,4295231,237
+DKI Jakarta,Jakarta Pusat,2023,Agu,Makanan,1648143,320
+DKI Jakarta,Jakarta Pusat,2023,Agu,Minuman,1065725,495
+DKI Jakarta,Jakarta Pusat,2023,Agu,Rumah Tangga,1084654,495
+DKI Jakarta,Jakarta Pusat,2023,Sep,Makanan,2954354,413
+DKI Jakarta,Jakarta Pusat,2023,Sep,Minuman,3416182,293
+DKI Jakarta,Jakarta Pusat,2023,Sep,Rumah Tangga,3652991,180
+DKI Jakarta,Jakarta Pusat,2023,Okt,Makanan,3428388,356
+DKI Jakarta,Jakarta Pusat,2023,Okt,Minuman,3663046,70
+DKI Jakarta,Jakarta Pusat,2023,Okt,Rumah Tangga,2305416,216
+DKI Jakarta,Jakarta Pusat,2023,Nov,Makanan,3446609,437
+DKI Jakarta,Jakarta Pusat,2023,Nov,Minuman,4416664,365
+DKI Jakarta,Jakarta Pusat,2023,Nov,Rumah Tangga,4385357,291
+DKI Jakarta,Jakarta Pusat,2023,Des,Makanan,3795513,314
+DKI Jakarta,Jakarta Pusat,2023,Des,Minuman,2465689,102
+DKI Jakarta,Jakarta Pusat,2023,Des,Rumah Tangga,2825665,389
+DKI Jakarta,Jakarta Pusat,2024,Jan,Makanan,4397723,416
+DKI Jakarta,Jakarta Pusat,2024,Jan,Minuman,3775995,477
+DKI Jakarta,Jakarta Pusat,2024,Jan,Rumah Tangga,1256508,313
+DKI Jakarta,Jakarta Pusat,2024,Feb,Makanan,1896942,84
+DKI Jakarta,Jakarta Pusat,2024,Feb,Minuman,1604365,130
+DKI Jakarta,Jakarta Pusat,2024,Feb,Rumah Tangga,3557489,409
+DKI Jakarta,Jakarta Pusat,2024,Mar,Makanan,3055555,51
+DKI Jakarta,Jakarta Pusat,2024,Mar,Minuman,2508349,439
+DKI Jakarta,Jakarta Pusat,2024,Mar,Rumah Tangga,4910197,155
+DKI Jakarta,Jakarta Pusat,2024,Apr,Makanan,2363715,359
+DKI Jakarta,Jakarta Pusat,2024,Apr,Minuman,1271836,240
+DKI Jakarta,Jakarta Pusat,2024,Apr,Rumah Tangga,3095505,267
+DKI Jakarta,Jakarta Pusat,2024,Mei,Makanan,3299435,211
+DKI Jakarta,Jakarta Pusat,2024,Mei,Minuman,3658505,495
+DKI Jakarta,Jakarta Pusat,2024,Mei,Rumah Tangga,4769315,319
+DKI Jakarta,Jakarta Pusat,2024,Jun,Makanan,4047262,353
+DKI Jakarta,Jakarta Pusat,2024,Jun,Minuman,2584398,264
+DKI Jakarta,Jakarta Pusat,2024,Jun,Rumah Tangga,2402107,239
+DKI Jakarta,Jakarta Pusat,2024,Jul,Makanan,1579879,262
+DKI Jakarta,Jakarta Pusat,2024,Jul,Minuman,1023247,286
+DKI Jakarta,Jakarta Pusat,2024,Jul,Rumah Tangga,4613009,416
+DKI Jakarta,Jakarta Pusat,2024,Agu,Makanan,3630708,329
+DKI Jakarta,Jakarta Pusat,2024,Agu,Minuman,2322905,266
+DKI Jakarta,Jakarta Pusat,2024,Agu,Rumah Tangga,3839291,237
+DKI Jakarta,Jakarta Pusat,2024,Sep,Makanan,4023227,90
+DKI Jakarta,Jakarta Pusat,2024,Sep,Minuman,2610908,64
+DKI Jakarta,Jakarta Pusat,2024,Sep,Rumah Tangga,1978732,114
+DKI Jakarta,Jakarta Pusat,2024,Okt,Makanan,1048984,376
+DKI Jakarta,Jakarta Pusat,2024,Okt,Minuman,3361864,393
+DKI Jakarta,Jakarta Pusat,2024,Okt,Rumah Tangga,2504384,185
+DKI Jakarta,Jakarta Pusat,2024,Nov,Makanan,3745815,112
+DKI Jakarta,Jakarta Pusat,2024,Nov,Minuman,1136330,130
+DKI Jakarta,Jakarta Pusat,2024,Nov,Rumah Tangga,2737095,212
+DKI Jakarta,Jakarta Pusat,2024,Des,Makanan,1586146,338
+DKI Jakarta,Jakarta Pusat,2024,Des,Minuman,3109818,310
+DKI Jakarta,Jakarta Pusat,2024,Des,Rumah Tangga,3231785,280
+DKI Jakarta,Jakarta Barat,2023,Jan,Makanan,3948089,90
+DKI Jakarta,Jakarta Barat,2023,Jan,Minuman,4853339,184
+DKI Jakarta,Jakarta Barat,2023,Jan,Rumah Tangga,2843400,377
+DKI Jakarta,Jakarta Barat,2023,Feb,Makanan,1996107,467
+DKI Jakarta,Jakarta Barat,2023,Feb,Minuman,3935840,97
+DKI Jakarta,Jakarta Barat,2023,Feb,Rumah Tangga,4011062,456
+DKI Jakarta,Jakarta Barat,2023,Mar,Makanan,4747389,265
+DKI Jakarta,Jakarta Barat,2023,Mar,Minuman,4793700,148
+DKI Jakarta,Jakarta Barat,2023,Mar,Rumah Tangga,3050731,409
+DKI Jakarta,Jakarta Barat,2023,Apr,Makanan,2321685,84
+DKI Jakarta,Jakarta Barat,2023,Apr,Minuman,3298816,276
+DKI Jakarta,Jakarta Barat,2023,Apr,Rumah Tangga,2948260,480
+DKI Jakarta,Jakarta Barat,2023,Mei,Makanan,2521101,180
+DKI Jakarta,Jakarta Barat,2023,Mei,Minuman,1184064,54
+DKI Jakarta,Jakarta Barat,2023,Mei,Rumah Tangga,4136729,304
+DKI Jakarta,Jakarta Barat,2023,Jun,Makanan,1897421,408
+DKI Jakarta,Jakarta Barat,2023,Jun,Minuman,2694490,442
+DKI Jakarta,Jakarta Barat,2023,Jun,Rumah Tangga,4014862,64
+DKI Jakarta,Jakarta Barat,2023,Jul,Makanan,3316121,91
+DKI Jakarta,Jakarta Barat,2023,Jul,Minuman,4693435,228
+DKI Jakarta,Jakarta Barat,2023,Jul,Rumah Tangga,1769598,401
+DKI Jakarta,Jakarta Barat,2023,Agu,Makanan,3869990,290
+DKI Jakarta,Jakarta Barat,2023,Agu,Minuman,4777075,145
+DKI Jakarta,Jakarta Barat,2023,Agu,Rumah Tangga,1874371,271
+DKI Jakarta,Jakarta Barat,2023,Sep,Makanan,3832868,456
+DKI Jakarta,Jakarta Barat,2023,Sep,Minuman,4872998,286
+DKI Jakarta,Jakarta Barat,2023,Sep,Rumah Tangga,4344014,220
+DKI Jakarta,Jakarta Barat,2023,Okt,Makanan,4920412,85
+DKI Jakarta,Jakarta Barat,2023,Okt,Minuman,3021900,209
+DKI Jakarta,Jakarta Barat,2023,Okt,Rumah Tangga,1999238,236
+DKI Jakarta,Jakarta Barat,2023,Nov,Makanan,2928434,135
+DKI Jakarta,Jakarta Barat,2023,Nov,Minuman,3512667,115
+DKI Jakarta,Jakarta Barat,2023,Nov,Rumah Tangga,2419945,94
+DKI Jakarta,Jakarta Barat,2023,Des,Makanan,4057213,490
+DKI Jakarta,Jakarta Barat,2023,Des,Minuman,1109556,183
+DKI Jakarta,Jakarta Barat,2023,Des,Rumah Tangga,3061083,77
+DKI Jakarta,Jakarta Barat,2024,Jan,Makanan,3864747,93
+DKI Jakarta,Jakarta Barat,2024,Jan,Minuman,3123091,335
+DKI Jakarta,Jakarta Barat,2024,Jan,Rumah Tangga,3009021,380
+DKI Jakarta,Jakarta Barat,2024,Feb,Makanan,1542335,397
+DKI Jakarta,Jakarta Barat,2024,Feb,Minuman,4560920,280
+DKI Jakarta,Jakarta Barat,2024,Feb,Rumah Tangga,3484413,274
+DKI Jakarta,Jakarta Barat,2024,Mar,Makanan,3782592,426
+DKI Jakarta,Jakarta Barat,2024,Mar,Minuman,1984346,495
+DKI Jakarta,Jakarta Barat,2024,Mar,Rumah Tangga,3235000,165
+DKI Jakarta,Jakarta Barat,2024,Apr,Makanan,1127948,282
+DKI Jakarta,Jakarta Barat,2024,Apr,Minuman,1402690,408
+DKI Jakarta,Jakarta Barat,2024,Apr,Rumah Tangga,3548421,460
+DKI Jakarta,Jakarta Barat,2024,Mei,Makanan,2798792,367
+DKI Jakarta,Jakarta Barat,2024,Mei,Minuman,2838756,274
+DKI Jakarta,Jakarta Barat,2024,Mei,Rumah Tangga,4112754,283
+DKI Jakarta,Jakarta Barat,2024,Jun,Makanan,4011243,201
+DKI Jakarta,Jakarta Barat,2024,Jun,Minuman,3262990,364
+DKI Jakarta,Jakarta Barat,2024,Jun,Rumah Tangga,1061087,145
+DKI Jakarta,Jakarta Barat,2024,Jul,Makanan,3082263,282
+DKI Jakarta,Jakarta Barat,2024,Jul,Minuman,3215603,162
+DKI Jakarta,Jakarta Barat,2024,Jul,Rumah Tangga,2886013,491
+DKI Jakarta,Jakarta Barat,2024,Agu,Makanan,3290227,317
+DKI Jakarta,Jakarta Barat,2024,Agu,Minuman,4460605,344
+DKI Jakarta,Jakarta Barat,2024,Agu,Rumah Tangga,1765313,436
+DKI Jakarta,Jakarta Barat,2024,Sep,Makanan,1416880,150
+DKI Jakarta,Jakarta Barat,2024,Sep,Minuman,3838128,489
+DKI Jakarta,Jakarta Barat,2024,Sep,Rumah Tangga,4238992,236
+DKI Jakarta,Jakarta Barat,2024,Okt,Makanan,1813168,51
+DKI Jakarta,Jakarta Barat,2024,Okt,Minuman,4117697,269
+DKI Jakarta,Jakarta Barat,2024,Okt,Rumah Tangga,3995765,392
+DKI Jakarta,Jakarta Barat,2024,Nov,Makanan,2400804,273
+DKI Jakarta,Jakarta Barat,2024,Nov,Minuman,1269536,434
+DKI Jakarta,Jakarta Barat,2024,Nov,Rumah Tangga,2306002,175
+DKI Jakarta,Jakarta Barat,2024,Des,Makanan,2561729,102
+DKI Jakarta,Jakarta Barat,2024,Des,Minuman,1837291,267
+DKI Jakarta,Jakarta Barat,2024,Des,Rumah Tangga,2283743,247
+DKI Jakarta,Jakarta Timur,2023,Jan,Makanan,4626399,296
+DKI Jakarta,Jakarta Timur,2023,Jan,Minuman,2119043,488
+DKI Jakarta,Jakarta Timur,2023,Jan,Rumah Tangga,4768522,233
+DKI Jakarta,Jakarta Timur,2023,Feb,Makanan,2429626,450
+DKI Jakarta,Jakarta Timur,2023,Feb,Minuman,3908926,343
+DKI Jakarta,Jakarta Timur,2023,Feb,Rumah Tangga,3558231,374
+DKI Jakarta,Jakarta Timur,2023,Mar,Makanan,3018163,147
+DKI Jakarta,Jakarta Timur,2023,Mar,Minuman,4080389,444
+DKI Jakarta,Jakarta Timur,2023,Mar,Rumah Tangga,1110078,289
+DKI Jakarta,Jakarta Timur,2023,Apr,Makanan,3119823,146
+DKI Jakarta,Jakarta Timur,2023,Apr,Minuman,2404104,173
+DKI Jakarta,Jakarta Timur,2023,Apr,Rumah Tangga,2659066,375
+DKI Jakarta,Jakarta Timur,2023,Mei,Makanan,3148815,398
+DKI Jakarta,Jakarta Timur,2023,Mei,Minuman,1311955,301
+DKI Jakarta,Jakarta Timur,2023,Mei,Rumah Tangga,4464122,469
+DKI Jakarta,Jakarta Timur,2023,Jun,Makanan,1910681,196
+DKI Jakarta,Jakarta Timur,2023,Jun,Minuman,1142483,401
+DKI Jakarta,Jakarta Timur,2023,Jun,Rumah Tangga,3033350,357
+DKI Jakarta,Jakarta Timur,2023,Jul,Makanan,1401896,466
+DKI Jakarta,Jakarta Timur,2023,Jul,Minuman,1477095,177
+DKI Jakarta,Jakarta Timur,2023,Jul,Rumah Tangga,1743974,387
+DKI Jakarta,Jakarta Timur,2023,Agu,Makanan,4418983,178
+DKI Jakarta,Jakarta Timur,2023,Agu,Minuman,4802890,490
+DKI Jakarta,Jakarta Timur,2023,Agu,Rumah Tangga,1825816,483
+DKI Jakarta,Jakarta Timur,2023,Sep,Makanan,4717270,464
+DKI Jakarta,Jakarta Timur,2023,Sep,Minuman,2658845,347
+DKI Jakarta,Jakarta Timur,2023,Sep,Rumah Tangga,1554594,312
+DKI Jakarta,Jakarta Timur,2023,Okt,Makanan,4454715,193
+DKI Jakarta,Jakarta Timur,2023,Okt,Minuman,4504473,161
+DKI Jakarta,Jakarta Timur,2023,Okt,Rumah Tangga,3204664,109
+DKI Jakarta,Jakarta Timur,2023,Nov,Makanan,1373616,51
+DKI Jakarta,Jakarta Timur,2023,Nov,Minuman,1686976,353
+DKI Jakarta,Jakarta Timur,2023,Nov,Rumah Tangga,3472189,189
+DKI Jakarta,Jakarta Timur,2023,Des,Makanan,3904516,86
+DKI Jakarta,Jakarta Timur,2023,Des,Minuman,4437727,58
+DKI Jakarta,Jakarta Timur,2023,Des,Rumah Tangga,3366696,148
+DKI Jakarta,Jakarta Timur,2024,Jan,Makanan,1698002,353
+DKI Jakarta,Jakarta Timur,2024,Jan,Minuman,3688130,453
+DKI Jakarta,Jakarta Timur,2024,Jan,Rumah Tangga,2579159,103
+DKI Jakarta,Jakarta Timur,2024,Feb,Makanan,3485367,210
+DKI Jakarta,Jakarta Timur,2024,Feb,Minuman,2847191,165
+DKI Jakarta,Jakarta Timur,2024,Feb,Rumah Tangga,1668234,162
+DKI Jakarta,Jakarta Timur,2024,Mar,Makanan,3129863,469
+DKI Jakarta,Jakarta Timur,2024,Mar,Minuman,1501157,153
+DKI Jakarta,Jakarta Timur,2024,Mar,Rumah Tangga,3613501,276
+DKI Jakarta,Jakarta Timur,2024,Apr,Makanan,1912495,148
+DKI Jakarta,Jakarta Timur,2024,Apr,Minuman,1133272,398
+DKI Jakarta,Jakarta Timur,2024,Apr,Rumah Tangga,4083153,433
+DKI Jakarta,Jakarta Timur,2024,Mei,Makanan,3904941,387
+DKI Jakarta,Jakarta Timur,2024,Mei,Minuman,2126081,359
+DKI Jakarta,Jakarta Timur,2024,Mei,Rumah Tangga,1781474,257
+DKI Jakarta,Jakarta Timur,2024,Jun,Makanan,2360828,218
+DKI Jakarta,Jakarta Timur,2024,Jun,Minuman,1618467,210
+DKI Jakarta,Jakarta Timur,2024,Jun,Rumah Tangga,3135619,338
+DKI Jakarta,Jakarta Timur,2024,Jul,Makanan,4133837,326
+DKI Jakarta,Jakarta Timur,2024,Jul,Minuman,1480047,453
+DKI Jakarta,Jakarta Timur,2024,Jul,Rumah Tangga,2107447,433
+DKI Jakarta,Jakarta Timur,2024,Agu,Makanan,1128391,184
+DKI Jakarta,Jakarta Timur,2024,Agu,Minuman,2017026,450
+DKI Jakarta,Jakarta Timur,2024,Agu,Rumah Tangga,2905279,82
+DKI Jakarta,Jakarta Timur,2024,Sep,Makanan,3353839,492
+DKI Jakarta,Jakarta Timur,2024,Sep,Minuman,3269042,424
+DKI Jakarta,Jakarta Timur,2024,Sep,Rumah Tangga,2983509,287
+DKI Jakarta,Jakarta Timur,2024,Okt,Makanan,1116381,87
+DKI Jakarta,Jakarta Timur,2024,Okt,Minuman,2620197,414
+DKI Jakarta,Jakarta Timur,2024,Okt,Rumah Tangga,2778226,487
+DKI Jakarta,Jakarta Timur,2024,Nov,Makanan,4544839,332
+DKI Jakarta,Jakarta Timur,2024,Nov,Minuman,4438618,275
+DKI Jakarta,Jakarta Timur,2024,Nov,Rumah Tangga,3014484,335
+DKI Jakarta,Jakarta Timur,2024,Des,Makanan,3457184,333
+DKI Jakarta,Jakarta Timur,2024,Des,Minuman,2418175,366
+DKI Jakarta,Jakarta Timur,2024,Des,Rumah Tangga,1729903,196
+Jawa Barat,Bandung,2023,Jan,Makanan,4071491,84
+Jawa Barat,Bandung,2023,Jan,Minuman,3727423,66
+Jawa Barat,Bandung,2023,Jan,Rumah Tangga,2760427,269
+Jawa Barat,Bandung,2023,Feb,Makanan,1936093,95
+Jawa Barat,Bandung,2023,Feb,Minuman,4444084,55
+Jawa Barat,Bandung,2023,Feb,Rumah Tangga,1178274,429
+Jawa Barat,Bandung,2023,Mar,Makanan,4471080,86
+Jawa Barat,Bandung,2023,Mar,Minuman,3509079,398
+Jawa Barat,Bandung,2023,Mar,Rumah Tangga,2931760,351
+Jawa Barat,Bandung,2023,Apr,Makanan,4584180,144
+Jawa Barat,Bandung,2023,Apr,Minuman,4132514,237
+Jawa Barat,Bandung,2023,Apr,Rumah Tangga,3020320,165
+Jawa Barat,Bandung,2023,Mei,Makanan,3162878,302
+Jawa Barat,Bandung,2023,Mei,Minuman,2426388,465
+Jawa Barat,Bandung,2023,Mei,Rumah Tangga,3365398,210
+Jawa Barat,Bandung,2023,Jun,Makanan,3215167,372
+Jawa Barat,Bandung,2023,Jun,Minuman,3351231,67
+Jawa Barat,Bandung,2023,Jun,Rumah Tangga,1689944,272
+Jawa Barat,Bandung,2023,Jul,Makanan,2989173,107
+Jawa Barat,Bandung,2023,Jul,Minuman,2414466,409
+Jawa Barat,Bandung,2023,Jul,Rumah Tangga,1445101,329
+Jawa Barat,Bandung,2023,Agu,Makanan,4912305,337
+Jawa Barat,Bandung,2023,Agu,Minuman,2052590,391
+Jawa Barat,Bandung,2023,Agu,Rumah Tangga,2066646,499
+Jawa Barat,Bandung,2023,Sep,Makanan,2105534,204
+Jawa Barat,Bandung,2023,Sep,Minuman,2583593,435
+Jawa Barat,Bandung,2023,Sep,Rumah Tangga,2224665,322
+Jawa Barat,Bandung,2023,Okt,Makanan,1158823,466
+Jawa Barat,Bandung,2023,Okt,Minuman,4775880,348
+Jawa Barat,Bandung,2023,Okt,Rumah Tangga,4879157,225
+Jawa Barat,Bandung,2023,Nov,Makanan,1367654,219
+Jawa Barat,Bandung,2023,Nov,Minuman,4295990,75
+Jawa Barat,Bandung,2023,Nov,Rumah Tangga,3332514,355
+Jawa Barat,Bandung,2023,Des,Makanan,4699608,457
+Jawa Barat,Bandung,2023,Des,Minuman,1664076,365
+Jawa Barat,Bandung,2023,Des,Rumah Tangga,3577913,440
+Jawa Barat,Bandung,2024,Jan,Makanan,3318136,85
+Jawa Barat,Bandung,2024,Jan,Minuman,2905324,69
+Jawa Barat,Bandung,2024,Jan,Rumah Tangga,3361664,313
+Jawa Barat,Bandung,2024,Feb,Makanan,4414527,449
+Jawa Barat,Bandung,2024,Feb,Minuman,2532875,420
+Jawa Barat,Bandung,2024,Feb,Rumah Tangga,1448982,192
+Jawa Barat,Bandung,2024,Mar,Makanan,3503771,403
+Jawa Barat,Bandung,2024,Mar,Minuman,1996161,337
+Jawa Barat,Bandung,2024,Mar,Rumah Tangga,1666326,496
+Jawa Barat,Bandung,2024,Apr,Makanan,4375957,100
+Jawa Barat,Bandung,2024,Apr,Minuman,4239576,235
+Jawa Barat,Bandung,2024,Apr,Rumah Tangga,3802238,239
+Jawa Barat,Bandung,2024,Mei,Makanan,2754236,199
+Jawa Barat,Bandung,2024,Mei,Minuman,1055609,107
+Jawa Barat,Bandung,2024,Mei,Rumah Tangga,1974165,354
+Jawa Barat,Bandung,2024,Jun,Makanan,2025715,219
+Jawa Barat,Bandung,2024,Jun,Minuman,2438533,320
+Jawa Barat,Bandung,2024,Jun,Rumah Tangga,4503157,493
+Jawa Barat,Bandung,2024,Jul,Makanan,3058852,313
+Jawa Barat,Bandung,2024,Jul,Minuman,2985588,109
+Jawa Barat,Bandung,2024,Jul,Rumah Tangga,1003051,157
+Jawa Barat,Bandung,2024,Agu,Makanan,4522564,152
+Jawa Barat,Bandung,2024,Agu,Minuman,2660099,311
+Jawa Barat,Bandung,2024,Agu,Rumah Tangga,4867500,421
+Jawa Barat,Bandung,2024,Sep,Makanan,1949597,96
+Jawa Barat,Bandung,2024,Sep,Minuman,2260386,360
+Jawa Barat,Bandung,2024,Sep,Rumah Tangga,3825127,357
+Jawa Barat,Bandung,2024,Okt,Makanan,4906191,318
+Jawa Barat,Bandung,2024,Okt,Minuman,4379569,173
+Jawa Barat,Bandung,2024,Okt,Rumah Tangga,4126377,207
+Jawa Barat,Bandung,2024,Nov,Makanan,1222866,194
+Jawa Barat,Bandung,2024,Nov,Minuman,2646711,368
+Jawa Barat,Bandung,2024,Nov,Rumah Tangga,4880722,141
+Jawa Barat,Bandung,2024,Des,Makanan,4773497,488
+Jawa Barat,Bandung,2024,Des,Minuman,4695961,278
+Jawa Barat,Bandung,2024,Des,Rumah Tangga,4177945,166
+Jawa Barat,Bekasi,2023,Jan,Makanan,4413821,328
+Jawa Barat,Bekasi,2023,Jan,Minuman,3491518,442
+Jawa Barat,Bekasi,2023,Jan,Rumah Tangga,1100235,178
+Jawa Barat,Bekasi,2023,Feb,Makanan,2901625,171
+Jawa Barat,Bekasi,2023,Feb,Minuman,1803328,288
+Jawa Barat,Bekasi,2023,Feb,Rumah Tangga,2043233,145
+Jawa Barat,Bekasi,2023,Mar,Makanan,2711741,167
+Jawa Barat,Bekasi,2023,Mar,Minuman,4129903,138
+Jawa Barat,Bekasi,2023,Mar,Rumah Tangga,1176615,286
+Jawa Barat,Bekasi,2023,Apr,Makanan,3735988,434
+Jawa Barat,Bekasi,2023,Apr,Minuman,4280143,238
+Jawa Barat,Bekasi,2023,Apr,Rumah Tangga,3543590,241
+Jawa Barat,Bekasi,2023,Mei,Makanan,3762174,118
+Jawa Barat,Bekasi,2023,Mei,Minuman,2686293,398
+Jawa Barat,Bekasi,2023,Mei,Rumah Tangga,3812150,125
+Jawa Barat,Bekasi,2023,Jun,Makanan,3609305,193
+Jawa Barat,Bekasi,2023,Jun,Minuman,2904050,135
+Jawa Barat,Bekasi,2023,Jun,Rumah Tangga,4099320,334
+Jawa Barat,Bekasi,2023,Jul,Makanan,4600333,269
+Jawa Barat,Bekasi,2023,Jul,Minuman,1447556,96
+Jawa Barat,Bekasi,2023,Jul,Rumah Tangga,3962416,143
+Jawa Barat,Bekasi,2023,Agu,Makanan,1078781,253
+Jawa Barat,Bekasi,2023,Agu,Minuman,3403215,267
+Jawa Barat,Bekasi,2023,Agu,Rumah Tangga,3873817,481
+Jawa Barat,Bekasi,2023,Sep,Makanan,2169748,88
+Jawa Barat,Bekasi,2023,Sep,Minuman,3582115,338
+Jawa Barat,Bekasi,2023,Sep,Rumah Tangga,4464445,271
+Jawa Barat,Bekasi,2023,Okt,Makanan,2544548,72
+Jawa Barat,Bekasi,2023,Okt,Minuman,1890617,59
+Jawa Barat,Bekasi,2023,Okt,Rumah Tangga,4880693,374
+Jawa Barat,Bekasi,2023,Nov,Makanan,2641249,229
+Jawa Barat,Bekasi,2023,Nov,Minuman,3530526,443
+Jawa Barat,Bekasi,2023,Nov,Rumah Tangga,4693305,196
+Jawa Barat,Bekasi,2023,Des,Makanan,1887225,145
+Jawa Barat,Bekasi,2023,Des,Minuman,1191232,374
+Jawa Barat,Bekasi,2023,Des,Rumah Tangga,2589228,53
+Jawa Barat,Bekasi,2024,Jan,Makanan,3649103,329
+Jawa Barat,Bekasi,2024,Jan,Minuman,3285903,296
+Jawa Barat,Bekasi,2024,Jan,Rumah Tangga,4832065,433
+Jawa Barat,Bekasi,2024,Feb,Makanan,3840735,389
+Jawa Barat,Bekasi,2024,Feb,Minuman,2197719,445
+Jawa Barat,Bekasi,2024,Feb,Rumah Tangga,3038449,212
+Jawa Barat,Bekasi,2024,Mar,Makanan,4049851,82
+Jawa Barat,Bekasi,2024,Mar,Minuman,2052576,494
+Jawa Barat,Bekasi,2024,Mar,Rumah Tangga,3984626,476
+Jawa Barat,Bekasi,2024,Apr,Makanan,1251492,317
+Jawa Barat,Bekasi,2024,Apr,Minuman,2548098,114
+Jawa Barat,Bekasi,2024,Apr,Rumah Tangga,2086880,217
+Jawa Barat,Bekasi,2024,Mei,Makanan,1331593,92
+Jawa Barat,Bekasi,2024,Mei,Minuman,3055723,334
+Jawa Barat,Bekasi,2024,Mei,Rumah Tangga,1108940,61
+Jawa Barat,Bekasi,2024,Jun,Makanan,1824926,351
+Jawa Barat,Bekasi,2024,Jun,Minuman,3764673,302
+Jawa Barat,Bekasi,2024,Jun,Rumah Tangga,3976242,291
+Jawa Barat,Bekasi,2024,Jul,Makanan,2673250,264
+Jawa Barat,Bekasi,2024,Jul,Minuman,4763024,139
+Jawa Barat,Bekasi,2024,Jul,Rumah Tangga,3646791,142
+Jawa Barat,Bekasi,2024,Agu,Makanan,1638873,139
+Jawa Barat,Bekasi,2024,Agu,Minuman,4353597,467
+Jawa Barat,Bekasi,2024,Agu,Rumah Tangga,4989618,154
+Jawa Barat,Bekasi,2024,Sep,Makanan,4952518,245
+Jawa Barat,Bekasi,2024,Sep,Minuman,3179897,163
+Jawa Barat,Bekasi,2024,Sep,Rumah Tangga,1157164,124
+Jawa Barat,Bekasi,2024,Okt,Makanan,3228636,425
+Jawa Barat,Bekasi,2024,Okt,Minuman,3989475,266
+Jawa Barat,Bekasi,2024,Okt,Rumah Tangga,4206420,298
+Jawa Barat,Bekasi,2024,Nov,Makanan,1516771,443
+Jawa Barat,Bekasi,2024,Nov,Minuman,3660196,457
+Jawa Barat,Bekasi,2024,Nov,Rumah Tangga,1833727,276
+Jawa Barat,Bekasi,2024,Des,Makanan,2162928,148
+Jawa Barat,Bekasi,2024,Des,Minuman,3183151,85
+Jawa Barat,Bekasi,2024,Des,Rumah Tangga,4970001,145
+Jawa Barat,Bogor,2023,Jan,Makanan,4889814,239
+Jawa Barat,Bogor,2023,Jan,Minuman,2474271,86
+Jawa Barat,Bogor,2023,Jan,Rumah Tangga,2355531,418
+Jawa Barat,Bogor,2023,Feb,Makanan,1675510,62
+Jawa Barat,Bogor,2023,Feb,Minuman,3795798,266
+Jawa Barat,Bogor,2023,Feb,Rumah Tangga,3511720,335
+Jawa Barat,Bogor,2023,Mar,Makanan,1898320,418
+Jawa Barat,Bogor,2023,Mar,Minuman,2587261,133
+Jawa Barat,Bogor,2023,Mar,Rumah Tangga,2226607,266
+Jawa Barat,Bogor,2023,Apr,Makanan,4065173,446
+Jawa Barat,Bogor,2023,Apr,Minuman,1066234,68
+Jawa Barat,Bogor,2023,Apr,Rumah Tangga,3275504,149
+Jawa Barat,Bogor,2023,Mei,Makanan,1409995,494
+Jawa Barat,Bogor,2023,Mei,Minuman,1466152,452
+Jawa Barat,Bogor,2023,Mei,Rumah Tangga,3003019,314
+Jawa Barat,Bogor,2023,Jun,Makanan,4204891,255
+Jawa Barat,Bogor,2023,Jun,Minuman,1051934,433
+Jawa Barat,Bogor,2023,Jun,Rumah Tangga,1425523,388
+Jawa Barat,Bogor,2023,Jul,Makanan,4599865,416
+Jawa Barat,Bogor,2023,Jul,Minuman,2187983,422
+Jawa Barat,Bogor,2023,Jul,Rumah Tangga,4796036,148
+Jawa Barat,Bogor,2023,Agu,Makanan,4772811,74
+Jawa Barat,Bogor,2023,Agu,Minuman,3763642,102
+Jawa Barat,Bogor,2023,Agu,Rumah Tangga,3419862,193
+Jawa Barat,Bogor,2023,Sep,Makanan,3386488,88
+Jawa Barat,Bogor,2023,Sep,Minuman,2656940,230
+Jawa Barat,Bogor,2023,Sep,Rumah Tangga,2201193,235
+Jawa Barat,Bogor,2023,Okt,Makanan,4943334,447
+Jawa Barat,Bogor,2023,Okt,Minuman,4009758,171
+Jawa Barat,Bogor,2023,Okt,Rumah Tangga,1533636,212
+Jawa Barat,Bogor,2023,Nov,Makanan,1038102,270
+Jawa Barat,Bogor,2023,Nov,Minuman,2413354,380
+Jawa Barat,Bogor,2023,Nov,Rumah Tangga,4676817,288
+Jawa Barat,Bogor,2023,Des,Makanan,2776203,58
+Jawa Barat,Bogor,2023,Des,Minuman,4300425,491
+Jawa Barat,Bogor,2023,Des,Rumah Tangga,1231915,450
+Jawa Barat,Bogor,2024,Jan,Makanan,3305276,279
+Jawa Barat,Bogor,2024,Jan,Minuman,1525830,223
+Jawa Barat,Bogor,2024,Jan,Rumah Tangga,4323532,217
+Jawa Barat,Bogor,2024,Feb,Makanan,3136233,442
+Jawa Barat,Bogor,2024,Feb,Minuman,3452401,332
+Jawa Barat,Bogor,2024,Feb,Rumah Tangga,1805497,243
+Jawa Barat,Bogor,2024,Mar,Makanan,2263108,78
+Jawa Barat,Bogor,2024,Mar,Minuman,4665060,471
+Jawa Barat,Bogor,2024,Mar,Rumah Tangga,2337682,185
+Jawa Barat,Bogor,2024,Apr,Makanan,2062383,414
+Jawa Barat,Bogor,2024,Apr,Minuman,3254656,391
+Jawa Barat,Bogor,2024,Apr,Rumah Tangga,2286643,194
+Jawa Barat,Bogor,2024,Mei,Makanan,3006342,266
+Jawa Barat,Bogor,2024,Mei,Minuman,1394540,181
+Jawa Barat,Bogor,2024,Mei,Rumah Tangga,3615075,119
+Jawa Barat,Bogor,2024,Jun,Makanan,1744699,464
+Jawa Barat,Bogor,2024,Jun,Minuman,1952082,494
+Jawa Barat,Bogor,2024,Jun,Rumah Tangga,1248683,231
+Jawa Barat,Bogor,2024,Jul,Makanan,1026790,140
+Jawa Barat,Bogor,2024,Jul,Minuman,3908873,395
+Jawa Barat,Bogor,2024,Jul,Rumah Tangga,1749074,88
+Jawa Barat,Bogor,2024,Agu,Makanan,4685501,222
+Jawa Barat,Bogor,2024,Agu,Minuman,3626188,291
+Jawa Barat,Bogor,2024,Agu,Rumah Tangga,4810523,175
+Jawa Barat,Bogor,2024,Sep,Makanan,3745401,197
+Jawa Barat,Bogor,2024,Sep,Minuman,3808283,366
+Jawa Barat,Bogor,2024,Sep,Rumah Tangga,3253694,410
+Jawa Barat,Bogor,2024,Okt,Makanan,1305062,50
+Jawa Barat,Bogor,2024,Okt,Minuman,2612162,397
+Jawa Barat,Bogor,2024,Okt,Rumah Tangga,2110205,240
+Jawa Barat,Bogor,2024,Nov,Makanan,1755195,418
+Jawa Barat,Bogor,2024,Nov,Minuman,4693976,361
+Jawa Barat,Bogor,2024,Nov,Rumah Tangga,1213920,471
+Jawa Barat,Bogor,2024,Des,Makanan,4388532,183
+Jawa Barat,Bogor,2024,Des,Minuman,2509433,93
+Jawa Barat,Bogor,2024,Des,Rumah Tangga,2553068,209
+Jawa Tengah,Semarang,2023,Jan,Makanan,2464492,366
+Jawa Tengah,Semarang,2023,Jan,Minuman,2807150,198
+Jawa Tengah,Semarang,2023,Jan,Rumah Tangga,2855567,423
+Jawa Tengah,Semarang,2023,Feb,Makanan,4501268,252
+Jawa Tengah,Semarang,2023,Feb,Minuman,1731899,278
+Jawa Tengah,Semarang,2023,Feb,Rumah Tangga,1259747,276
+Jawa Tengah,Semarang,2023,Mar,Makanan,1423570,69
+Jawa Tengah,Semarang,2023,Mar,Minuman,2027512,451
+Jawa Tengah,Semarang,2023,Mar,Rumah Tangga,1858158,282
+Jawa Tengah,Semarang,2023,Apr,Makanan,1052528,63
+Jawa Tengah,Semarang,2023,Apr,Minuman,3356366,464
+Jawa Tengah,Semarang,2023,Apr,Rumah Tangga,4067392,422
+Jawa Tengah,Semarang,2023,Mei,Makanan,3731573,423
+Jawa Tengah,Semarang,2023,Mei,Minuman,2772802,193
+Jawa Tengah,Semarang,2023,Mei,Rumah Tangga,4318230,490
+Jawa Tengah,Semarang,2023,Jun,Makanan,1924618,61
+Jawa Tengah,Semarang,2023,Jun,Minuman,3983241,273
+Jawa Tengah,Semarang,2023,Jun,Rumah Tangga,2059599,407
+Jawa Tengah,Semarang,2023,Jul,Makanan,3485195,457
+Jawa Tengah,Semarang,2023,Jul,Minuman,1066203,422
+Jawa Tengah,Semarang,2023,Jul,Rumah Tangga,1160775,171
+Jawa Tengah,Semarang,2023,Agu,Makanan,3667867,213
+Jawa Tengah,Semarang,2023,Agu,Minuman,4469401,185
+Jawa Tengah,Semarang,2023,Agu,Rumah Tangga,4492537,365
+Jawa Tengah,Semarang,2023,Sep,Makanan,3784433,77
+Jawa Tengah,Semarang,2023,Sep,Minuman,3517723,406
+Jawa Tengah,Semarang,2023,Sep,Rumah Tangga,4272744,277
+Jawa Tengah,Semarang,2023,Okt,Makanan,4690175,460
+Jawa Tengah,Semarang,2023,Okt,Minuman,4848693,496
+Jawa Tengah,Semarang,2023,Okt,Rumah Tangga,3004168,466
+Jawa Tengah,Semarang,2023,Nov,Makanan,1317428,261
+Jawa Tengah,Semarang,2023,Nov,Minuman,2042892,269
+Jawa Tengah,Semarang,2023,Nov,Rumah Tangga,2932015,462
+Jawa Tengah,Semarang,2023,Des,Makanan,2600396,95
+Jawa Tengah,Semarang,2023,Des,Minuman,1122402,302
+Jawa Tengah,Semarang,2023,Des,Rumah Tangga,1438661,131
+Jawa Tengah,Semarang,2024,Jan,Makanan,3677618,305
+Jawa Tengah,Semarang,2024,Jan,Minuman,1463556,352
+Jawa Tengah,Semarang,2024,Jan,Rumah Tangga,1993176,499
+Jawa Tengah,Semarang,2024,Feb,Makanan,4080201,361
+Jawa Tengah,Semarang,2024,Feb,Minuman,3941725,291
+Jawa Tengah,Semarang,2024,Feb,Rumah Tangga,4464442,414
+Jawa Tengah,Semarang,2024,Mar,Makanan,4314692,168
+Jawa Tengah,Semarang,2024,Mar,Minuman,1525303,338
+Jawa Tengah,Semarang,2024,Mar,Rumah Tangga,2110389,114
+Jawa Tengah,Semarang,2024,Apr,Makanan,4770513,273
+Jawa Tengah,Semarang,2024,Apr,Minuman,4912942,226
+Jawa Tengah,Semarang,2024,Apr,Rumah Tangga,4274506,390
+Jawa Tengah,Semarang,2024,Mei,Makanan,3383129,112
+Jawa Tengah,Semarang,2024,Mei,Minuman,2766616,391
+Jawa Tengah,Semarang,2024,Mei,Rumah Tangga,1269114,332
+Jawa Tengah,Semarang,2024,Jun,Makanan,4101360,466
+Jawa Tengah,Semarang,2024,Jun,Minuman,4950177,154
+Jawa Tengah,Semarang,2024,Jun,Rumah Tangga,4251298,434
+Jawa Tengah,Semarang,2024,Jul,Makanan,1000404,360
+Jawa Tengah,Semarang,2024,Jul,Minuman,2995269,246
+Jawa Tengah,Semarang,2024,Jul,Rumah Tangga,3981726,182
+Jawa Tengah,Semarang,2024,Agu,Makanan,3332517,308
+Jawa Tengah,Semarang,2024,Agu,Minuman,4196340,72
+Jawa Tengah,Semarang,2024,Agu,Rumah Tangga,2858532,102
+Jawa Tengah,Semarang,2024,Sep,Makanan,2845924,251
+Jawa Tengah,Semarang,2024,Sep,Minuman,1163273,132
+Jawa Tengah,Semarang,2024,Sep,Rumah Tangga,2193104,134
+Jawa Tengah,Semarang,2024,Okt,Makanan,2498189,415
+Jawa Tengah,Semarang,2024,Okt,Minuman,3000896,100
+Jawa Tengah,Semarang,2024,Okt,Rumah Tangga,2364652,254
+Jawa Tengah,Semarang,2024,Nov,Makanan,1843523,495
+Jawa Tengah,Semarang,2024,Nov,Minuman,2249728,418
+Jawa Tengah,Semarang,2024,Nov,Rumah Tangga,1700903,337
+Jawa Tengah,Semarang,2024,Des,Makanan,1092193,397
+Jawa Tengah,Semarang,2024,Des,Minuman,1505950,121
+Jawa Tengah,Semarang,2024,Des,Rumah Tangga,4008038,203
+Jawa Tengah,Solo,2023,Jan,Makanan,1508153,211
+Jawa Tengah,Solo,2023,Jan,Minuman,3683317,167
+Jawa Tengah,Solo,2023,Jan,Rumah Tangga,2360642,428
+Jawa Tengah,Solo,2023,Feb,Makanan,1687409,317
+Jawa Tengah,Solo,2023,Feb,Minuman,1640053,285
+Jawa Tengah,Solo,2023,Feb,Rumah Tangga,2679748,271
+Jawa Tengah,Solo,2023,Mar,Makanan,4445498,362
+Jawa Tengah,Solo,2023,Mar,Minuman,1481680,161
+Jawa Tengah,Solo,2023,Mar,Rumah Tangga,3378494,352
+Jawa Tengah,Solo,2023,Apr,Makanan,3636694,256
+Jawa Tengah,Solo,2023,Apr,Minuman,3098404,390
+Jawa Tengah,Solo,2023,Apr,Rumah Tangga,3961293,115
+Jawa Tengah,Solo,2023,Mei,Makanan,2534026,484
+Jawa Tengah,Solo,2023,Mei,Minuman,4467366,471
+Jawa Tengah,Solo,2023,Mei,Rumah Tangga,1327359,301
+Jawa Tengah,Solo,2023,Jun,Makanan,1006949,355
+Jawa Tengah,Solo,2023,Jun,Minuman,1317537,387
+Jawa Tengah,Solo,2023,Jun,Rumah Tangga,3759453,384
+Jawa Tengah,Solo,2023,Jul,Makanan,1780722,496
+Jawa Tengah,Solo,2023,Jul,Minuman,4483617,357
+Jawa Tengah,Solo,2023,Jul,Rumah Tangga,3453752,215
+Jawa Tengah,Solo,2023,Agu,Makanan,4071456,384
+Jawa Tengah,Solo,2023,Agu,Minuman,1250875,79
+Jawa Tengah,Solo,2023,Agu,Rumah Tangga,1070390,155
+Jawa Tengah,Solo,2023,Sep,Makanan,1253490,130
+Jawa Tengah,Solo,2023,Sep,Minuman,2296516,334
+Jawa Tengah,Solo,2023,Sep,Rumah Tangga,3530179,187
+Jawa Tengah,Solo,2023,Okt,Makanan,4463351,450
+Jawa Tengah,Solo,2023,Okt,Minuman,4888457,322
+Jawa Tengah,Solo,2023,Okt,Rumah Tangga,2854971,389
+Jawa Tengah,Solo,2023,Nov,Makanan,1650199,118
+Jawa Tengah,Solo,2023,Nov,Minuman,3320929,311
+Jawa Tengah,Solo,2023,Nov,Rumah Tangga,2849396,499
+Jawa Tengah,Solo,2023,Des,Makanan,3691276,175
+Jawa Tengah,Solo,2023,Des,Minuman,3526954,92
+Jawa Tengah,Solo,2023,Des,Rumah Tangga,4813103,420
+Jawa Tengah,Solo,2024,Jan,Makanan,1661614,298
+Jawa Tengah,Solo,2024,Jan,Minuman,1679574,232
+Jawa Tengah,Solo,2024,Jan,Rumah Tangga,4357519,144
+Jawa Tengah,Solo,2024,Feb,Makanan,4807178,423
+Jawa Tengah,Solo,2024,Feb,Minuman,2726351,57
+Jawa Tengah,Solo,2024,Feb,Rumah Tangga,2631107,409
+Jawa Tengah,Solo,2024,Mar,Makanan,1912259,233
+Jawa Tengah,Solo,2024,Mar,Minuman,3269464,244
+Jawa Tengah,Solo,2024,Mar,Rumah Tangga,2263455,244
+Jawa Tengah,Solo,2024,Apr,Makanan,3523802,142
+Jawa Tengah,Solo,2024,Apr,Minuman,2950367,483
+Jawa Tengah,Solo,2024,Apr,Rumah Tangga,2601596,171
+Jawa Tengah,Solo,2024,Mei,Makanan,1928818,452
+Jawa Tengah,Solo,2024,Mei,Minuman,3154260,54
+Jawa Tengah,Solo,2024,Mei,Rumah Tangga,2529297,141
+Jawa Tengah,Solo,2024,Jun,Makanan,2085244,71
+Jawa Tengah,Solo,2024,Jun,Minuman,4487124,375
+Jawa Tengah,Solo,2024,Jun,Rumah Tangga,3227712,182
+Jawa Tengah,Solo,2024,Jul,Makanan,4512552,61
+Jawa Tengah,Solo,2024,Jul,Minuman,2198425,95
+Jawa Tengah,Solo,2024,Jul,Rumah Tangga,1051745,482
+Jawa Tengah,Solo,2024,Agu,Makanan,3094157,267
+Jawa Tengah,Solo,2024,Agu,Minuman,2261466,122
+Jawa Tengah,Solo,2024,Agu,Rumah Tangga,3120473,298
+Jawa Tengah,Solo,2024,Sep,Makanan,3906158,170
+Jawa Tengah,Solo,2024,Sep,Minuman,2222869,288
+Jawa Tengah,Solo,2024,Sep,Rumah Tangga,4929143,399
+Jawa Tengah,Solo,2024,Okt,Makanan,4125354,368
+Jawa Tengah,Solo,2024,Okt,Minuman,2429551,110
+Jawa Tengah,Solo,2024,Okt,Rumah Tangga,3756944,75
+Jawa Tengah,Solo,2024,Nov,Makanan,1588579,306
+Jawa Tengah,Solo,2024,Nov,Minuman,3287623,162
+Jawa Tengah,Solo,2024,Nov,Rumah Tangga,3570082,302
+Jawa Tengah,Solo,2024,Des,Makanan,4888819,256
+Jawa Tengah,Solo,2024,Des,Minuman,2966382,176
+Jawa Tengah,Solo,2024,Des,Rumah Tangga,1917559,263
+Jawa Tengah,Magelang,2023,Jan,Makanan,4285517,77
+Jawa Tengah,Magelang,2023,Jan,Minuman,4219414,127
+Jawa Tengah,Magelang,2023,Jan,Rumah Tangga,3665687,435
+Jawa Tengah,Magelang,2023,Feb,Makanan,2720684,203
+Jawa Tengah,Magelang,2023,Feb,Minuman,3363917,236
+Jawa Tengah,Magelang,2023,Feb,Rumah Tangga,3078007,420
+Jawa Tengah,Magelang,2023,Mar,Makanan,2971206,52
+Jawa Tengah,Magelang,2023,Mar,Minuman,3901614,456
+Jawa Tengah,Magelang,2023,Mar,Rumah Tangga,3546026,288
+Jawa Tengah,Magelang,2023,Apr,Makanan,1853499,323
+Jawa Tengah,Magelang,2023,Apr,Minuman,1630265,343
+Jawa Tengah,Magelang,2023,Apr,Rumah Tangga,2678050,420
+Jawa Tengah,Magelang,2023,Mei,Makanan,2215502,241
+Jawa Tengah,Magelang,2023,Mei,Minuman,3957272,168
+Jawa Tengah,Magelang,2023,Mei,Rumah Tangga,2421796,77
+Jawa Tengah,Magelang,2023,Jun,Makanan,3319049,88
+Jawa Tengah,Magelang,2023,Jun,Minuman,4393464,322
+Jawa Tengah,Magelang,2023,Jun,Rumah Tangga,3192614,135
+Jawa Tengah,Magelang,2023,Jul,Makanan,2498585,175
+Jawa Tengah,Magelang,2023,Jul,Minuman,3669355,74
+Jawa Tengah,Magelang,2023,Jul,Rumah Tangga,4774608,62
+Jawa Tengah,Magelang,2023,Agu,Makanan,4517651,74
+Jawa Tengah,Magelang,2023,Agu,Minuman,2680963,443
+Jawa Tengah,Magelang,2023,Agu,Rumah Tangga,1467010,282
+Jawa Tengah,Magelang,2023,Sep,Makanan,2697900,195
+Jawa Tengah,Magelang,2023,Sep,Minuman,1026734,277
+Jawa Tengah,Magelang,2023,Sep,Rumah Tangga,3123221,83
+Jawa Tengah,Magelang,2023,Okt,Makanan,1537198,313
+Jawa Tengah,Magelang,2023,Okt,Minuman,3568103,418
+Jawa Tengah,Magelang,2023,Okt,Rumah Tangga,1023275,132
+Jawa Tengah,Magelang,2023,Nov,Makanan,4620393,474
+Jawa Tengah,Magelang,2023,Nov,Minuman,3288228,55
+Jawa Tengah,Magelang,2023,Nov,Rumah Tangga,2002163,331
+Jawa Tengah,Magelang,2023,Des,Makanan,1572735,275
+Jawa Tengah,Magelang,2023,Des,Minuman,1912826,489
+Jawa Tengah,Magelang,2023,Des,Rumah Tangga,1862522,414
+Jawa Tengah,Magelang,2024,Jan,Makanan,2161157,278
+Jawa Tengah,Magelang,2024,Jan,Minuman,1421240,338
+Jawa Tengah,Magelang,2024,Jan,Rumah Tangga,3999732,199
+Jawa Tengah,Magelang,2024,Feb,Makanan,4107092,247
+Jawa Tengah,Magelang,2024,Feb,Minuman,1525893,161
+Jawa Tengah,Magelang,2024,Feb,Rumah Tangga,3255363,399
+Jawa Tengah,Magelang,2024,Mar,Makanan,1187210,495
+Jawa Tengah,Magelang,2024,Mar,Minuman,4931965,399
+Jawa Tengah,Magelang,2024,Mar,Rumah Tangga,3242142,201
+Jawa Tengah,Magelang,2024,Apr,Makanan,2207094,186
+Jawa Tengah,Magelang,2024,Apr,Minuman,1668406,436
+Jawa Tengah,Magelang,2024,Apr,Rumah Tangga,1418034,80
+Jawa Tengah,Magelang,2024,Mei,Makanan,2033255,278
+Jawa Tengah,Magelang,2024,Mei,Minuman,1795543,272
+Jawa Tengah,Magelang,2024,Mei,Rumah Tangga,1540677,371
+Jawa Tengah,Magelang,2024,Jun,Makanan,4449299,269
+Jawa Tengah,Magelang,2024,Jun,Minuman,2732682,53
+Jawa Tengah,Magelang,2024,Jun,Rumah Tangga,2791822,183
+Jawa Tengah,Magelang,2024,Jul,Makanan,2966197,418
+Jawa Tengah,Magelang,2024,Jul,Minuman,3209373,484
+Jawa Tengah,Magelang,2024,Jul,Rumah Tangga,3357821,490
+Jawa Tengah,Magelang,2024,Agu,Makanan,3937025,384
+Jawa Tengah,Magelang,2024,Agu,Minuman,4680970,441
+Jawa Tengah,Magelang,2024,Agu,Rumah Tangga,1244761,484
+Jawa Tengah,Magelang,2024,Sep,Makanan,3971820,349
+Jawa Tengah,Magelang,2024,Sep,Minuman,3234693,459
+Jawa Tengah,Magelang,2024,Sep,Rumah Tangga,2877109,373
+Jawa Tengah,Magelang,2024,Okt,Makanan,3713362,261
+Jawa Tengah,Magelang,2024,Okt,Minuman,4326176,69
+Jawa Tengah,Magelang,2024,Okt,Rumah Tangga,1954480,189
+Jawa Tengah,Magelang,2024,Nov,Makanan,3486830,50
+Jawa Tengah,Magelang,2024,Nov,Minuman,2153113,191
+Jawa Tengah,Magelang,2024,Nov,Rumah Tangga,3339135,87
+Jawa Tengah,Magelang,2024,Des,Makanan,1788260,431
+Jawa Tengah,Magelang,2024,Des,Minuman,1282762,405
+Jawa Tengah,Magelang,2024,Des,Rumah Tangga,2416012,308
+DI Yogyakarta,Yogyakarta,2023,Jan,Makanan,1282272,439
+DI Yogyakarta,Yogyakarta,2023,Jan,Minuman,3863793,59
+DI Yogyakarta,Yogyakarta,2023,Jan,Rumah Tangga,4227908,456
+DI Yogyakarta,Yogyakarta,2023,Feb,Makanan,1403081,221
+DI Yogyakarta,Yogyakarta,2023,Feb,Minuman,3399105,62
+DI Yogyakarta,Yogyakarta,2023,Feb,Rumah Tangga,1005287,179
+DI Yogyakarta,Yogyakarta,2023,Mar,Makanan,4154240,368
+DI Yogyakarta,Yogyakarta,2023,Mar,Minuman,4602020,378
+DI Yogyakarta,Yogyakarta,2023,Mar,Rumah Tangga,2985296,314
+DI Yogyakarta,Yogyakarta,2023,Apr,Makanan,4917770,448
+DI Yogyakarta,Yogyakarta,2023,Apr,Minuman,4749783,87
+DI Yogyakarta,Yogyakarta,2023,Apr,Rumah Tangga,4041270,468
+DI Yogyakarta,Yogyakarta,2023,Mei,Makanan,2011293,144
+DI Yogyakarta,Yogyakarta,2023,Mei,Minuman,4514160,118
+DI Yogyakarta,Yogyakarta,2023,Mei,Rumah Tangga,3324797,493
+DI Yogyakarta,Yogyakarta,2023,Jun,Makanan,1786667,483
+DI Yogyakarta,Yogyakarta,2023,Jun,Minuman,2175885,422
+DI Yogyakarta,Yogyakarta,2023,Jun,Rumah Tangga,2712503,186
+DI Yogyakarta,Yogyakarta,2023,Jul,Makanan,4866529,125
+DI Yogyakarta,Yogyakarta,2023,Jul,Minuman,2384418,84
+DI Yogyakarta,Yogyakarta,2023,Jul,Rumah Tangga,3869760,345
+DI Yogyakarta,Yogyakarta,2023,Agu,Makanan,4837247,455
+DI Yogyakarta,Yogyakarta,2023,Agu,Minuman,2044027,369
+DI Yogyakarta,Yogyakarta,2023,Agu,Rumah Tangga,2135964,377
+DI Yogyakarta,Yogyakarta,2023,Sep,Makanan,4403530,410
+DI Yogyakarta,Yogyakarta,2023,Sep,Minuman,3155748,319
+DI Yogyakarta,Yogyakarta,2023,Sep,Rumah Tangga,4045179,335
+DI Yogyakarta,Yogyakarta,2023,Okt,Makanan,4925282,262
+DI Yogyakarta,Yogyakarta,2023,Okt,Minuman,4685540,54
+DI Yogyakarta,Yogyakarta,2023,Okt,Rumah Tangga,2461074,428
+DI Yogyakarta,Yogyakarta,2023,Nov,Makanan,3596249,111
+DI Yogyakarta,Yogyakarta,2023,Nov,Minuman,2855619,138
+DI Yogyakarta,Yogyakarta,2023,Nov,Rumah Tangga,2062636,91
+DI Yogyakarta,Yogyakarta,2023,Des,Makanan,4623000,451
+DI Yogyakarta,Yogyakarta,2023,Des,Minuman,1829735,377
+DI Yogyakarta,Yogyakarta,2023,Des,Rumah Tangga,3827558,153
+DI Yogyakarta,Yogyakarta,2024,Jan,Makanan,2088287,228
+DI Yogyakarta,Yogyakarta,2024,Jan,Minuman,1335484,471
+DI Yogyakarta,Yogyakarta,2024,Jan,Rumah Tangga,4086176,72
+DI Yogyakarta,Yogyakarta,2024,Feb,Makanan,2151550,192
+DI Yogyakarta,Yogyakarta,2024,Feb,Minuman,2450976,202
+DI Yogyakarta,Yogyakarta,2024,Feb,Rumah Tangga,4737744,274
+DI Yogyakarta,Yogyakarta,2024,Mar,Makanan,4681262,499
+DI Yogyakarta,Yogyakarta,2024,Mar,Minuman,3508749,358
+DI Yogyakarta,Yogyakarta,2024,Mar,Rumah Tangga,1953959,153
+DI Yogyakarta,Yogyakarta,2024,Apr,Makanan,1921522,88
+DI Yogyakarta,Yogyakarta,2024,Apr,Minuman,3951090,247
+DI Yogyakarta,Yogyakarta,2024,Apr,Rumah Tangga,2627781,116
+DI Yogyakarta,Yogyakarta,2024,Mei,Makanan,4242374,228
+DI Yogyakarta,Yogyakarta,2024,Mei,Minuman,4956679,91
+DI Yogyakarta,Yogyakarta,2024,Mei,Rumah Tangga,3577855,64
+DI Yogyakarta,Yogyakarta,2024,Jun,Makanan,4004014,206
+DI Yogyakarta,Yogyakarta,2024,Jun,Minuman,2316128,280
+DI Yogyakarta,Yogyakarta,2024,Jun,Rumah Tangga,4802010,469
+DI Yogyakarta,Yogyakarta,2024,Jul,Makanan,3672796,87
+DI Yogyakarta,Yogyakarta,2024,Jul,Minuman,2932728,146
+DI Yogyakarta,Yogyakarta,2024,Jul,Rumah Tangga,4976188,460
+DI Yogyakarta,Yogyakarta,2024,Agu,Makanan,4359670,338
+DI Yogyakarta,Yogyakarta,2024,Agu,Minuman,2414397,245
+DI Yogyakarta,Yogyakarta,2024,Agu,Rumah Tangga,3378325,371
+DI Yogyakarta,Yogyakarta,2024,Sep,Makanan,4177993,54
+DI Yogyakarta,Yogyakarta,2024,Sep,Minuman,4389050,379
+DI Yogyakarta,Yogyakarta,2024,Sep,Rumah Tangga,2223520,167
+DI Yogyakarta,Yogyakarta,2024,Okt,Makanan,2496972,208
+DI Yogyakarta,Yogyakarta,2024,Okt,Minuman,4830574,277
+DI Yogyakarta,Yogyakarta,2024,Okt,Rumah Tangga,3300119,485
+DI Yogyakarta,Yogyakarta,2024,Nov,Makanan,4448503,64
+DI Yogyakarta,Yogyakarta,2024,Nov,Minuman,2805468,185
+DI Yogyakarta,Yogyakarta,2024,Nov,Rumah Tangga,3161924,206
+DI Yogyakarta,Yogyakarta,2024,Des,Makanan,4160110,373
+DI Yogyakarta,Yogyakarta,2024,Des,Minuman,3460491,222
+DI Yogyakarta,Yogyakarta,2024,Des,Rumah Tangga,2331329,460
+Jawa Timur,Surabaya,2023,Jan,Makanan,3244702,164
+Jawa Timur,Surabaya,2023,Jan,Minuman,3530034,469
+Jawa Timur,Surabaya,2023,Jan,Rumah Tangga,4144995,331
+Jawa Timur,Surabaya,2023,Feb,Makanan,4532586,332
+Jawa Timur,Surabaya,2023,Feb,Minuman,3692755,60
+Jawa Timur,Surabaya,2023,Feb,Rumah Tangga,1388349,379
+Jawa Timur,Surabaya,2023,Mar,Makanan,4124071,87
+Jawa Timur,Surabaya,2023,Mar,Minuman,4386501,249
+Jawa Timur,Surabaya,2023,Mar,Rumah Tangga,4201046,352
+Jawa Timur,Surabaya,2023,Apr,Makanan,4522905,351
+Jawa Timur,Surabaya,2023,Apr,Minuman,3974058,445
+Jawa Timur,Surabaya,2023,Apr,Rumah Tangga,4090649,190
+Jawa Timur,Surabaya,2023,Mei,Makanan,2908327,495
+Jawa Timur,Surabaya,2023,Mei,Minuman,1896209,160
+Jawa Timur,Surabaya,2023,Mei,Rumah Tangga,3188903,365
+Jawa Timur,Surabaya,2023,Jun,Makanan,1813738,405
+Jawa Timur,Surabaya,2023,Jun,Minuman,4357679,373
+Jawa Timur,Surabaya,2023,Jun,Rumah Tangga,1195716,425
+Jawa Timur,Surabaya,2023,Jul,Makanan,3412324,377
+Jawa Timur,Surabaya,2023,Jul,Minuman,1000126,155
+Jawa Timur,Surabaya,2023,Jul,Rumah Tangga,4173360,141
+Jawa Timur,Surabaya,2023,Agu,Makanan,2769246,427
+Jawa Timur,Surabaya,2023,Agu,Minuman,3414472,100
+Jawa Timur,Surabaya,2023,Agu,Rumah Tangga,1498716,345
+Jawa Timur,Surabaya,2023,Sep,Makanan,3559272,263
+Jawa Timur,Surabaya,2023,Sep,Minuman,3276106,456
+Jawa Timur,Surabaya,2023,Sep,Rumah Tangga,4180288,351
+Jawa Timur,Surabaya,2023,Okt,Makanan,3381412,454
+Jawa Timur,Surabaya,2023,Okt,Minuman,3067801,159
+Jawa Timur,Surabaya,2023,Okt,Rumah Tangga,4324323,231
+Jawa Timur,Surabaya,2023,Nov,Makanan,3477014,362
+Jawa Timur,Surabaya,2023,Nov,Minuman,1494592,368
+Jawa Timur,Surabaya,2023,Nov,Rumah Tangga,4854261,104
+Jawa Timur,Surabaya,2023,Des,Makanan,4578226,473
+Jawa Timur,Surabaya,2023,Des,Minuman,3029454,198
+Jawa Timur,Surabaya,2023,Des,Rumah Tangga,2715630,358
+Jawa Timur,Surabaya,2024,Jan,Makanan,2014920,251
+Jawa Timur,Surabaya,2024,Jan,Minuman,1511411,362
+Jawa Timur,Surabaya,2024,Jan,Rumah Tangga,4117172,203
+Jawa Timur,Surabaya,2024,Feb,Makanan,3110376,340
+Jawa Timur,Surabaya,2024,Feb,Minuman,4039806,293
+Jawa Timur,Surabaya,2024,Feb,Rumah Tangga,2229336,139
+Jawa Timur,Surabaya,2024,Mar,Makanan,4909706,343
+Jawa Timur,Surabaya,2024,Mar,Minuman,3761089,440
+Jawa Timur,Surabaya,2024,Mar,Rumah Tangga,2174737,467
+Jawa Timur,Surabaya,2024,Apr,Makanan,3087258,66
+Jawa Timur,Surabaya,2024,Apr,Minuman,1662143,476
+Jawa Timur,Surabaya,2024,Apr,Rumah Tangga,3663354,413
+Jawa Timur,Surabaya,2024,Mei,Makanan,3749178,228
+Jawa Timur,Surabaya,2024,Mei,Minuman,1771253,201
+Jawa Timur,Surabaya,2024,Mei,Rumah Tangga,3076696,229
+Jawa Timur,Surabaya,2024,Jun,Makanan,3903540,393
+Jawa Timur,Surabaya,2024,Jun,Minuman,4978400,226
+Jawa Timur,Surabaya,2024,Jun,Rumah Tangga,1954652,112
+Jawa Timur,Surabaya,2024,Jul,Makanan,2045482,199
+Jawa Timur,Surabaya,2024,Jul,Minuman,2591961,205
+Jawa Timur,Surabaya,2024,Jul,Rumah Tangga,4293041,98
+Jawa Timur,Surabaya,2024,Agu,Makanan,2295302,386
+Jawa Timur,Surabaya,2024,Agu,Minuman,1570451,410
+Jawa Timur,Surabaya,2024,Agu,Rumah Tangga,1967344,197
+Jawa Timur,Surabaya,2024,Sep,Makanan,3412149,391
+Jawa Timur,Surabaya,2024,Sep,Minuman,2669595,112
+Jawa Timur,Surabaya,2024,Sep,Rumah Tangga,4352252,409
+Jawa Timur,Surabaya,2024,Okt,Makanan,2038896,376
+Jawa Timur,Surabaya,2024,Okt,Minuman,3828032,273
+Jawa Timur,Surabaya,2024,Okt,Rumah Tangga,3878604,264
+Jawa Timur,Surabaya,2024,Nov,Makanan,1133554,428
+Jawa Timur,Surabaya,2024,Nov,Minuman,3548434,367
+Jawa Timur,Surabaya,2024,Nov,Rumah Tangga,1264223,207
+Jawa Timur,Surabaya,2024,Des,Makanan,2108252,354
+Jawa Timur,Surabaya,2024,Des,Minuman,2790380,335
+Jawa Timur,Surabaya,2024,Des,Rumah Tangga,3694287,473
+Jawa Timur,Malang,2023,Jan,Makanan,3317330,67
+Jawa Timur,Malang,2023,Jan,Minuman,1426752,127
+Jawa Timur,Malang,2023,Jan,Rumah Tangga,1824690,224
+Jawa Timur,Malang,2023,Feb,Makanan,2305585,243
+Jawa Timur,Malang,2023,Feb,Minuman,2186293,162
+Jawa Timur,Malang,2023,Feb,Rumah Tangga,2599601,271
+Jawa Timur,Malang,2023,Mar,Makanan,1300709,484
+Jawa Timur,Malang,2023,Mar,Minuman,2900163,434
+Jawa Timur,Malang,2023,Mar,Rumah Tangga,2625351,462
+Jawa Timur,Malang,2023,Apr,Makanan,2323062,408
+Jawa Timur,Malang,2023,Apr,Minuman,2359490,337
+Jawa Timur,Malang,2023,Apr,Rumah Tangga,4511049,415
+Jawa Timur,Malang,2023,Mei,Makanan,1907425,429
+Jawa Timur,Malang,2023,Mei,Minuman,2785910,337
+Jawa Timur,Malang,2023,Mei,Rumah Tangga,1652465,440
+Jawa Timur,Malang,2023,Jun,Makanan,4095900,57
+Jawa Timur,Malang,2023,Jun,Minuman,4130176,362
+Jawa Timur,Malang,2023,Jun,Rumah Tangga,2256182,372
+Jawa Timur,Malang,2023,Jul,Makanan,3602967,492
+Jawa Timur,Malang,2023,Jul,Minuman,3684670,377
+Jawa Timur,Malang,2023,Jul,Rumah Tangga,3546741,298
+Jawa Timur,Malang,2023,Agu,Makanan,1478446,278
+Jawa Timur,Malang,2023,Agu,Minuman,4480130,100
+Jawa Timur,Malang,2023,Agu,Rumah Tangga,2728096,141
+Jawa Timur,Malang,2023,Sep,Makanan,4771374,313
+Jawa Timur,Malang,2023,Sep,Minuman,4472801,340
+Jawa Timur,Malang,2023,Sep,Rumah Tangga,1034911,137
+Jawa Timur,Malang,2023,Okt,Makanan,3522189,337
+Jawa Timur,Malang,2023,Okt,Minuman,1978039,351
+Jawa Timur,Malang,2023,Okt,Rumah Tangga,1608746,449
+Jawa Timur,Malang,2023,Nov,Makanan,4002819,214
+Jawa Timur,Malang,2023,Nov,Minuman,2962165,447
+Jawa Timur,Malang,2023,Nov,Rumah Tangga,1768734,360
+Jawa Timur,Malang,2023,Des,Makanan,4556271,56
+Jawa Timur,Malang,2023,Des,Minuman,2839433,312
+Jawa Timur,Malang,2023,Des,Rumah Tangga,3375328,200
+Jawa Timur,Malang,2024,Jan,Makanan,3026580,196
+Jawa Timur,Malang,2024,Jan,Minuman,4034735,430
+Jawa Timur,Malang,2024,Jan,Rumah Tangga,3007954,85
+Jawa Timur,Malang,2024,Feb,Makanan,2492252,237
+Jawa Timur,Malang,2024,Feb,Minuman,4526737,51
+Jawa Timur,Malang,2024,Feb,Rumah Tangga,3008960,352
+Jawa Timur,Malang,2024,Mar,Makanan,4168964,453
+Jawa Timur,Malang,2024,Mar,Minuman,4886602,283
+Jawa Timur,Malang,2024,Mar,Rumah Tangga,4816446,435
+Jawa Timur,Malang,2024,Apr,Makanan,4240642,168
+Jawa Timur,Malang,2024,Apr,Minuman,3085259,69
+Jawa Timur,Malang,2024,Apr,Rumah Tangga,1538884,342
+Jawa Timur,Malang,2024,Mei,Makanan,1996261,305
+Jawa Timur,Malang,2024,Mei,Minuman,2242845,442
+Jawa Timur,Malang,2024,Mei,Rumah Tangga,3489569,102
+Jawa Timur,Malang,2024,Jun,Makanan,3235307,404
+Jawa Timur,Malang,2024,Jun,Minuman,1906739,391
+Jawa Timur,Malang,2024,Jun,Rumah Tangga,2983851,329
+Jawa Timur,Malang,2024,Jul,Makanan,2305289,207
+Jawa Timur,Malang,2024,Jul,Minuman,1543351,108
+Jawa Timur,Malang,2024,Jul,Rumah Tangga,1090093,264
+Jawa Timur,Malang,2024,Agu,Makanan,1217215,273
+Jawa Timur,Malang,2024,Agu,Minuman,2755856,419
+Jawa Timur,Malang,2024,Agu,Rumah Tangga,1035954,258
+Jawa Timur,Malang,2024,Sep,Makanan,1526861,58
+Jawa Timur,Malang,2024,Sep,Minuman,3656807,499
+Jawa Timur,Malang,2024,Sep,Rumah Tangga,3859244,330
+Jawa Timur,Malang,2024,Okt,Makanan,1322918,250
+Jawa Timur,Malang,2024,Okt,Minuman,3938613,327
+Jawa Timur,Malang,2024,Okt,Rumah Tangga,4459565,53
+Jawa Timur,Malang,2024,Nov,Makanan,2890969,491
+Jawa Timur,Malang,2024,Nov,Minuman,1780316,158
+Jawa Timur,Malang,2024,Nov,Rumah Tangga,4402337,264
+Jawa Timur,Malang,2024,Des,Makanan,3433828,124
+Jawa Timur,Malang,2024,Des,Minuman,2366853,195
+Jawa Timur,Malang,2024,Des,Rumah Tangga,2566847,390
+Jawa Timur,Kediri,2023,Jan,Makanan,3582569,405
+Jawa Timur,Kediri,2023,Jan,Minuman,1188456,471
+Jawa Timur,Kediri,2023,Jan,Rumah Tangga,4303457,66
+Jawa Timur,Kediri,2023,Feb,Makanan,1228504,427
+Jawa Timur,Kediri,2023,Feb,Minuman,3044491,136
+Jawa Timur,Kediri,2023,Feb,Rumah Tangga,1573044,411
+Jawa Timur,Kediri,2023,Mar,Makanan,2589589,76
+Jawa Timur,Kediri,2023,Mar,Minuman,3596664,336
+Jawa Timur,Kediri,2023,Mar,Rumah Tangga,4621509,268
+Jawa Timur,Kediri,2023,Apr,Makanan,4149991,147
+Jawa Timur,Kediri,2023,Apr,Minuman,4897611,286
+Jawa Timur,Kediri,2023,Apr,Rumah Tangga,1572212,443
+Jawa Timur,Kediri,2023,Mei,Makanan,2500844,450
+Jawa Timur,Kediri,2023,Mei,Minuman,4443609,239
+Jawa Timur,Kediri,2023,Mei,Rumah Tangga,2559161,95
+Jawa Timur,Kediri,2023,Jun,Makanan,1390719,179
+Jawa Timur,Kediri,2023,Jun,Minuman,2149947,359
+Jawa Timur,Kediri,2023,Jun,Rumah Tangga,4130730,242
+Jawa Timur,Kediri,2023,Jul,Makanan,4296050,230
+Jawa Timur,Kediri,2023,Jul,Minuman,3632995,420
+Jawa Timur,Kediri,2023,Jul,Rumah Tangga,1996121,78
+Jawa Timur,Kediri,2023,Agu,Makanan,3678932,316
+Jawa Timur,Kediri,2023,Agu,Minuman,3610471,60
+Jawa Timur,Kediri,2023,Agu,Rumah Tangga,1876031,213
+Jawa Timur,Kediri,2023,Sep,Makanan,2270896,236
+Jawa Timur,Kediri,2023,Sep,Minuman,2059622,281
+Jawa Timur,Kediri,2023,Sep,Rumah Tangga,1378165,147
+Jawa Timur,Kediri,2023,Okt,Makanan,1708662,160
+Jawa Timur,Kediri,2023,Okt,Minuman,2315573,455
+Jawa Timur,Kediri,2023,Okt,Rumah Tangga,1645188,361
+Jawa Timur,Kediri,2023,Nov,Makanan,1415008,299
+Jawa Timur,Kediri,2023,Nov,Minuman,4907107,288
+Jawa Timur,Kediri,2023,Nov,Rumah Tangga,3342035,276
+Jawa Timur,Kediri,2023,Des,Makanan,4046643,386
+Jawa Timur,Kediri,2023,Des,Minuman,2170365,414
+Jawa Timur,Kediri,2023,Des,Rumah Tangga,2611754,250
+Jawa Timur,Kediri,2024,Jan,Makanan,2736857,499
+Jawa Timur,Kediri,2024,Jan,Minuman,1656884,122
+Jawa Timur,Kediri,2024,Jan,Rumah Tangga,4947208,345
+Jawa Timur,Kediri,2024,Feb,Makanan,3790416,178
+Jawa Timur,Kediri,2024,Feb,Minuman,2606872,110
+Jawa Timur,Kediri,2024,Feb,Rumah Tangga,4875754,153
+Jawa Timur,Kediri,2024,Mar,Makanan,2103913,74
+Jawa Timur,Kediri,2024,Mar,Minuman,2324070,340
+Jawa Timur,Kediri,2024,Mar,Rumah Tangga,4190914,278
+Jawa Timur,Kediri,2024,Apr,Makanan,2658987,221
+Jawa Timur,Kediri,2024,Apr,Minuman,4876274,151
+Jawa Timur,Kediri,2024,Apr,Rumah Tangga,2661793,61
+Jawa Timur,Kediri,2024,Mei,Makanan,3672914,150
+Jawa Timur,Kediri,2024,Mei,Minuman,4271723,492
+Jawa Timur,Kediri,2024,Mei,Rumah Tangga,2380346,354
+Jawa Timur,Kediri,2024,Jun,Makanan,1428988,66
+Jawa Timur,Kediri,2024,Jun,Minuman,1180553,106
+Jawa Timur,Kediri,2024,Jun,Rumah Tangga,3977590,352
+Jawa Timur,Kediri,2024,Jul,Makanan,4297291,367
+Jawa Timur,Kediri,2024,Jul,Minuman,1699983,265
+Jawa Timur,Kediri,2024,Jul,Rumah Tangga,3490706,313
+Jawa Timur,Kediri,2024,Agu,Makanan,2191902,198
+Jawa Timur,Kediri,2024,Agu,Minuman,2059920,264
+Jawa Timur,Kediri,2024,Agu,Rumah Tangga,3020836,423
+Jawa Timur,Kediri,2024,Sep,Makanan,3202575,247
+Jawa Timur,Kediri,2024,Sep,Minuman,1464071,74
+Jawa Timur,Kediri,2024,Sep,Rumah Tangga,1186833,138
+Jawa Timur,Kediri,2024,Okt,Makanan,1775435,192
+Jawa Timur,Kediri,2024,Okt,Minuman,4403322,459
+Jawa Timur,Kediri,2024,Okt,Rumah Tangga,4498472,414
+Jawa Timur,Kediri,2024,Nov,Makanan,2564718,337
+Jawa Timur,Kediri,2024,Nov,Minuman,3134793,65
+Jawa Timur,Kediri,2024,Nov,Rumah Tangga,2905350,450
+Jawa Timur,Kediri,2024,Des,Makanan,4813270,331
+Jawa Timur,Kediri,2024,Des,Minuman,3415572,135
+Jawa Timur,Kediri,2024,Des,Rumah Tangga,2929465,440
